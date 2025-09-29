@@ -10,7 +10,7 @@
 - embedding 等等。
 
 **数据格式**
-存储在C:\Users\leo\Desktop\QBUS6600\Data中，分别称作：
+存储在同一文件夹下的Data中，分别称作：
 Mosaic.xlsx
 PostcodeData.csv
 Project1Data.csv
